@@ -7,10 +7,10 @@ import { themes as prismThemes } from "prism-react-renderer";
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
-  title: "Dolphin's Fab Academy Journal",
+  title: "MicroBlocks使用教程",
   tagline: '',
   url: 'https://github.com',
-  baseUrl: "/2026/labs/chaihuo/students/dolphin-liu/",
+  baseUrl: "/",
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
