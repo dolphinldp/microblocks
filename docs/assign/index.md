@@ -1,4 +1,4 @@
-# Assign
+# 小学信息科学实验
 
 - **[Week 1 - Project Management ✅](week01/index.md)**
 - **[Week 2 - Computer Aided Design ]

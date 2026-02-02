@@ -25,13 +25,13 @@ import { themes as prismThemes } from "prism-react-renderer";
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://gitlab.fabcloud.org/academany/fabacademy/2026/labs/chaihuo/students/dolphin-liu/',
+          editUrl: 'https://dolphinldp.github.io/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://gitlab.fabcloud.org/academany/fabacademy/2026/labs/chaihuo/students/dolphin-liu/',
+            'https://dolphinldp.github.io',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -93,7 +93,7 @@ import { themes as prismThemes } from "prism-react-renderer";
           position: "right",
         },
         {
-          href: "https://github.com/",
+          href: "https://github.com/dolphinldp",
           label: "GitHub",
           position: "right",
         },
@@ -124,8 +124,8 @@ import { themes as prismThemes } from "prism-react-renderer";
             items: [
 
               {
-                label: 'GitLab',
-                href: 'https://gitlab.fabcloud.org/academany/fabacademy/2026/labs/chaihuo/students/dolphin-liu',
+                label: 'Github',
+                href: 'https://dolphinldp.github.io',
               },
             ],
           },
