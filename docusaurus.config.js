@@ -10,7 +10,7 @@ import { themes as prismThemes } from "prism-react-renderer";
   title: "MicroBlocks使用教程",
   tagline: '',
   url: 'https://github.com',
-  baseUrl: "/dolphinldp/dolphinldp.github.io",
+  baseUrl: "/",
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
